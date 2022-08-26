@@ -1,24 +1,9 @@
-# README
+# System do obsługi resteuracji
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+todo: 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Theme x3 (klient, admin, zamówienia)
+- Panel admina (tworzenie kategorii, pozycji w menu, użytkowników (adminów), zarządzanie historią zamówień)
+- Menu wyboru pozycji + możliwość wybrania ilości
+- Kategorie
+tbd...
